@@ -20,8 +20,8 @@ status-website:
       href: /
     - title: Blionyx
       href: https://blionyx.com
-  i18n:
-  footer: © 2023 Blionyx
+i18n:
+footer: © 2023 Blionyx
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
