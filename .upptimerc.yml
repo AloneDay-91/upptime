@@ -13,8 +13,8 @@ status-website:
   #baseUrl: upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Blionyx
-  introTitle: "Status of the **Blionyx** page."
-  introMessage:
+  introTitle: "**Blionyx** status."
+  introMessage: "This is a status page which uses **real-time** data."
   navbar:
     - title: Status Blionyx
       href: /
@@ -22,7 +22,4 @@ status-website:
       href: https://blionyx.com
       
 i18n:
-footer: © 2023 Blionyx
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  footer: © 2023 Blionyx
