@@ -13,13 +13,15 @@ status-website:
   #baseUrl: upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Blionyx
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status of the **Blionyx** page."
+  introMessage:
   navbar:
     - title: Status Blionyx
       href: /
     - title: Blionyx
       href: https://blionyx.com
+  i18n:
+  footer: © 2023 Blionyx
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
