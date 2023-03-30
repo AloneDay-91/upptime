@@ -4,17 +4,19 @@
     "url": "https://blionyx.com",
     "icon": "https://icons.duckduckgo.com/ip3/blionyx.com.ico",
     "slug": "blionyx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1204,
-    "timeDay": 848,
-    "timeWeek": 1204,
-    "timeMonth": 1204,
-    "timeYear": 1204,
-    "dailyMinutesDown": {}
+    "time": 1172,
+    "timeDay": 777,
+    "timeWeek": 1172,
+    "timeMonth": 1172,
+    "timeYear": 1172,
+    "dailyMinutesDown": {
+      "2023-03-30": 0
+    }
   }
 ]
