@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blionyx.com.ico",
     "slug": "blionyx",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1066,
-    "timeDay": 819,
-    "timeWeek": 871,
-    "timeMonth": 1066,
-    "timeYear": 1066,
-    "dailyMinutesDown": {
-      "2023-04-03": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1057,
+    "timeDay": 724,
+    "timeWeek": 867,
+    "timeMonth": 1057,
+    "timeYear": 1057,
+    "dailyMinutesDown": {}
   }
 ]
